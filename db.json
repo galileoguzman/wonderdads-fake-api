@@ -25,6 +25,26 @@
       "thumbnailUrl": "http://www.wonderdads.com/wp-content/uploads/2019/02/95.png"
     }
   ],
+  "resources": [
+    {
+      "id": 1,
+      "title": "Have an Airbnb Staycation ",
+      "url": "https://wonderdads.com/resources/have-an-airbnb/",
+      "thumbnailUrl": "http://www.wonderdads.com/wp-content/uploads/2019/01/1-10.png"
+    },
+    {
+      "id": 2,
+      "title": "BACK TO THE FUTURE ROAD TRIP",
+      "url": "https://wonderdads.com/resources/back-to-the-future-road-trip/",
+      "thumbnailUrl": "http://www.wonderdads.com/wp-content/uploads/2019/01/1-9.png"
+    },
+    {
+      "id": 3,
+      "title": "Camping Trip With the Kids",
+      "url": "https://wonderdads.com/resources/camping-trip-with-the-kids/",
+      "thumbnailUrl": "http://www.wonderdads.com/wp-content/uploads/2019/01/2-8.png"
+    }
+  ],
   "profile": {
     "name": "Pablo Eduardo",
     "email": "pablo@wonderdads.com"
