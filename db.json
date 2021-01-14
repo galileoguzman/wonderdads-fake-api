@@ -55,5 +55,110 @@
   "profile": {
     "name": "Pablo Eduardo",
     "email": "pablo@wonderdads.com"
+  },
+  "home": {
+    "latest" : {
+      "id": 234,
+      "title": "String",
+      "content": "String",
+      "excerpt": "String",
+      "featuredImage": "String",
+      "link": "String",
+      "status": "String",
+      "date": "String"
+    },
+    "sectionOne": {
+      [{
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      },
+      {
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      },{
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      }]
+    },
+    "sectionTwo": {
+      [{
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      },
+      {
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      },{
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      }]
+    },
+    "sectionThree": {
+      [{
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      },
+      {
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      },{
+        "id": 234,
+        "title": "String",
+        "content": "String",
+        "excerpt": "String",
+        "featuredImage": "String",
+        "link": "String",
+        "status": "String",
+        "date": "String"
+      }]
+    }
   }
 }
