@@ -67,8 +67,7 @@
       "status": "String",
       "date": "String"
     },
-    "sectionOne": {
-      [{
+    "sectionOne": [{
         "id": 234,
         "title": "String",
         "content": "String",
@@ -96,10 +95,9 @@
         "link": "String",
         "status": "String",
         "date": "String"
-      }]
-    },
-    "sectionTwo": {
-      [{
+      }
+   ],
+    "sectionTwo":[{
         "id": 234,
         "title": "String",
         "content": "String",
@@ -127,10 +125,9 @@
         "link": "String",
         "status": "String",
         "date": "String"
-      }]
-    },
-    "sectionThree": {
-      [{
+      }
+     ],
+    "sectionThree":[{
         "id": 234,
         "title": "String",
         "content": "String",
@@ -158,7 +155,7 @@
         "link": "String",
         "status": "String",
         "date": "String"
-      }]
-    }
+      }
+    ]
   }
 }
